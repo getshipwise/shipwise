@@ -23,7 +23,7 @@ class OrderResource extends Resource
     {
         return $form
             ->schema([
-                //
+                Forms\Components\TextInput::make('order_number')
             ]);
     }
 
