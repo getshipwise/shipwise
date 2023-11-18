@@ -23,6 +23,13 @@ back to the ecommerce system and your ecommerce platform handles notifying the c
 Thank you for considering contributing to Shipwise. There is no guide yet - maybe you can start there? I need all the
 help I can get!
 
+The project requires Docker, Git, and PHP/Composer (maybe... this might not be a requirement with Sail).
+
+1. Download the project `git clone git@github.com:getshipwise/shipwise.git`
+1. Run `sail up -d` 
+
+I think I'm forgetting steps and will update this in more detail later.
+
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Shipwise, please send an e-mail to Chris Smith
